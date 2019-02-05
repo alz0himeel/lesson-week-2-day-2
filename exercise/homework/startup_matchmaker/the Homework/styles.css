@@ -51,7 +51,7 @@ hr {
   font-weight: bold;
 }
 .main-s {
-  background: url(coworking.jpg);
+  background: url("../images/coworking.jpg");
   border: none;
   background-size: cover;
   margin: 0 0 15px 0;
